@@ -1,0 +1,40 @@
+{
+    "eventsOutlook":[
+        {
+            "id": 1,
+            "summary": "Событие Outlook",
+            "creator": {
+                "email": "alexey.rushev@gmail.com"
+            },
+            "description": "Получилось увидеть событие календаря",
+            "end": {
+                "dateTime": "2023-04-15",
+                "timeZone": "Europe/Moscow"
+            },
+            "start": {
+                "dateTime": "2023-04-09",
+                "timeZone": "Europe/Moscow"
+            },
+            "location": "город Муром, г. Муром, Владимирская обл., Россия"
+        }
+    ],
+    "eventsGoogle":[
+        {
+            "id": 12315464,
+            "summary": "Событие Google",
+            "creator": {
+                "email": "rushev.alexey@gmail.com"
+            },
+            "description": "Получилось увидеть событие календаря",
+            "end": {
+                "dateTime": "2023-04-12",
+                "timeZone": "Europe/Moscow"
+            },
+            "start": {
+                "dateTime": "2023-04-07",
+                "timeZone": "Europe/Moscow"
+            },
+            "location": "город Муром, г. Муром, Владимирская обл., Россия"
+        }
+    ]
+}
